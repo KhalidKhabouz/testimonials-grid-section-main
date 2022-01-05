@@ -30,10 +30,6 @@ main {
   padding: 10.3125rem 1rem;
 }
 
-h1 {
-  visibility: hidden;
-}
-
 .main-container {
   max-width: 69.375rem;
   margin: auto;
