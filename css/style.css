@@ -30,6 +30,12 @@ main {
   padding: 10.3125rem 1rem;
 }
 
+h1 {
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
 .main-container {
   max-width: 69.375rem;
   margin: auto;
